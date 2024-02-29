@@ -40,7 +40,6 @@ private slots:
     void on_btnSwitchP1_clicked();
     void on_btnSwitchP2_clicked();
 
-    void on_btnSwitcP1_clicked();
 
 private:
     Ui::MainWindow *ui;
