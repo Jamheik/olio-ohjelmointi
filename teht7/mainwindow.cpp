@@ -107,7 +107,7 @@ void MainWindow::on_btnSwitchP2_clicked()
 }
 
 
-void MainWindow::on_btnSwitcP1_clicked()
+void MainWindow::on_btnSwitchP1_clicked()
 {
     currentPlayer = 2;
 }
